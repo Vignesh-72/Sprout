@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+motor
+google-genai
+python-dotenv
+pydantic
+pydantic-settings
+python-multipart
+Pillow

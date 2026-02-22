@@ -1,0 +1,44 @@
+name: sprout
+description: "AI IoT Plant Companion"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  fl_chart: ^0.66.0
+  flutter_markdown: ^0.6.19
+  google_fonts: ^6.1.0
+  intl: ^0.19.0
+  # Bluetooth library (GATT/BLE support)
+  flutter_blue_plus: ^1.34.5
+
+  # For handling Android 12+ location/bluetooth permissions
+  permission_handler: ^12.0.1
+
+  # Optional: keeps the screen awake during data streaming
+  wakelock_plus: ^1.2.8
+  shared_preferences: ^2.2.2
+ 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.jpeg
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo.jpeg"
+  min_sdk_android: 21 # essential for some android versions
+  adaptive_icon_background: "#ffffff" # Optional: White background for round icons
+  adaptive_icon_foreground: "assets/logo.jpeg"
