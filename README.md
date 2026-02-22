@@ -138,3 +138,7 @@ Sprout is designed to be your friend. It avoids "Assistant-speak" (like *"How ca
 * **Hardware Upgrade:** Transitioning to Capacitive Soil Sensors for long-term corrosion resistance in wet soil.
 * **Auto-Watering:** Integration with 5V submersible water pumps and relays for autonomous care.
 * **Social Sprout:** Let multiple plants talk to each other over the local MQTT network.
+
+  
+![WhatsApp Image 2026-02-22 at 5 21 29 PM](https://github.com/user-attachments/assets/e94010eb-79f1-45d6-b4cb-05130c415da1)
+
