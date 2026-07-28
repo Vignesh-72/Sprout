@@ -1,5 +1,5 @@
 
-<img width="876" height="460" alt="sicon_1_-removebg-preview (1)" src="https://github.com/user-attachments/assets/30a16894-8d0a-4bce-9d46-7a8906836c75" />
+<img width="896" height="440" alt="sicon_1_-removebg-preview (1)" src="https://github.com/user-attachments/assets/30a16894-8d0a-4bce-9d46-7a8906836c75" />
 
 
 <h2>Giving Nature a Voice through IoT & AI</h2>
