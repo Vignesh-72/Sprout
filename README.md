@@ -1,9 +1,8 @@
-
 <img width="896" height="440" alt="sicon_1_-removebg-preview (1)" src="https://github.com/user-attachments/assets/30a16894-8d0a-4bce-9d46-7a8906836c75" />
-
 
 <h2>Giving Nature a Voice through IoT & AI</h2>
 <div align="center">
+<a href="https://sourceforge.net/projects/sprout-app/"><img src="https://img.shields.io/badge/SourceForge-Download-EE6600?style=for-the-badge&logo=sourceforge&logoColor=white" alt="Download Sprout on SourceForge" /></a>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -14,7 +13,20 @@
 
 **Sprout** is an intelligent plant monitoring system that bridges the gap between nature and technology. By combining real-time IoT sensor data with Google’s Gemini AI, Sprout transforms raw environmental metrics into a casual, friendly conversation with your houseplant.
 
+<br />
+
+[![Download Sprout](https://img.shields.io/sourceforge/dt/sprout-app.svg?label=SourceForge%20Downloads&style=flat-square)](https://sourceforge.net/projects/sprout-app/)
+[![SourceForge Project](https://img.shields.io/badge/Project-SourceForge-blue?style=flat-square&logo=sourceforge)](https://sourceforge.net/projects/sprout-app/)
+
 </div>
+
+---
+
+## 📥 Downloads & Releases
+
+Pre-built binaries, release packages, and project archives are available on SourceForge:
+
+👉 **[Download Sprout on SourceForge](https://sourceforge.net/projects/sprout-app/)**
 
 ---
 
