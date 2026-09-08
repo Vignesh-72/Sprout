@@ -1,5 +1,4 @@
 <img width="896" height="440" alt="sicon_1_-removebg-preview (1)" src="https://github.com/user-attachments/assets/30a16894-8d0a-4bce-9d46-7a8906836c75" />
-
 <h2>Giving Nature a Voice through IoT & AI</h2>
 <div align="center">
 <a href="https://sourceforge.net/projects/sprout-app/"><img src="https://img.shields.io/badge/SourceForge-Download-EE6600?style=for-the-badge&logo=sourceforge&logoColor=white" alt="Download Sprout on SourceForge" /></a>
@@ -15,8 +14,7 @@
 
 <br />
 
-[![Download Sprout](https://img.shields.io/sourceforge/dt/sprout-app.svg?label=SourceForge%20Downloads&style=flat-square)](https://sourceforge.net/projects/sprout-app/)
-[![SourceForge Project](https://img.shields.io/badge/Project-SourceForge-blue?style=flat-square&logo=sourceforge)](https://sourceforge.net/projects/sprout-app/)
+
 
 </div>
 
